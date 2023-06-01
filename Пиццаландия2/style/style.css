@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+.red_text, a{
+	color: #B2020B;
+	font-size: 32px;
+	padding: 0px 25px 0px 25px;
+	text-decoration: none;
+}
+.orange_fon{
+	background-color: #FFDF39;
+}
+.black_Fon{
+	background-color: #393939;
+	color: white;
+}
+.black_Fon td{
+	padding: 10px;
+}
+table{
+	border-collapse: collapse;
+
+}
+.darkorange_fon{
+	background-color: #FF9900;
+	color: white;
+}
+.padding_menu{
+	padding: 20px;
+	font-size: 20px;
+  }
+.eat_men{
+	color: white;
+    font-size: 20px;
+}
